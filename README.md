@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jhon Matthew Evangelista
+- 👀 I’m interested in Coding and Debuging
+- 🌱 I’m currently learning github repositories and data analysis
+- 💞️ I’m looking to collaborate on SIA project 
+- 📫 How to reach me 21-32683@g.batstate-u.edu.ph
+- 👨‍💻 Programming Languages: Vb.net, python, c#, c++, js
